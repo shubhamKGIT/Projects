@@ -1,2 +1,2 @@
-# Projects
-Repo of my personal projects
+# ml
+Repo of my personal projects on machine learning
